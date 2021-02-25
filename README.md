@@ -1,5 +1,5 @@
 # [FOSCAR] winter project1
-영상에서 특정 색상을 검출한 뒤, 검출된 방향으로 터틀심 거북이를 이동해보는 프로젝트
+영상에서 특정 색상을 검출한 뒤, 검출된 위치로 터틀심 거북이를 이동해보는 프로젝트
 
 ## 실행 방법
 `roslaunch foscar_winter_project1 project1.launch`
